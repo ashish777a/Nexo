@@ -17,6 +17,9 @@
     
     .bit li{
         display: flex;
+        align-items: center;
+        list-style: none;
+        
     }
     
     ul a{ padding :5px; 
