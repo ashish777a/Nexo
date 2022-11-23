@@ -22,6 +22,9 @@ ul {
     border-radius: 5px;
     width: 65px;
 }
+.poto img{
+    margin: 2px;
+}
 
 .bit li {
     display: flex;
