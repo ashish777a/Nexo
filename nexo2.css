@@ -128,3 +128,10 @@ li {
 .left a:hover{
     background-color: #ffc700;
 }
+.top li a:hover{
+    background-color: #ffc700;
+}
+.top li a{
+    transition: all 1.5s ease-in-out;
+
+}
