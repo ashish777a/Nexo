@@ -116,3 +116,6 @@ li {
     text-transform: capitalize;
     color: white;
 }
+.asd a:hover{
+    background-color: aqua;
+}
